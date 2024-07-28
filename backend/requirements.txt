@@ -3,3 +3,5 @@ pydantic
 sqlalchemy
 databases
 email-validator
+requests
+python-dotenv
